@@ -1,0 +1,7 @@
+qdrant-client
+llama-index
+langchain-community
+llama-index-vector-stores-qdrant
+sentence_transformers
+keras==2.11
+llama-index-embeddings-langchain
